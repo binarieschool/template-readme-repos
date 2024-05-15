@@ -17,7 +17,7 @@ Briefly describe your project.
 * [Install and Run](#install-run)
 * [Built with](#built-with)
 * [Useful resources](#useful-resources)
-<!-- * [Code of conduct](#code-of-conduct) -->
+* [Code of conduct](#code-of-conduct)
 * [License](#license)
 * [Author](#author)
 
@@ -164,16 +164,22 @@ print("Hello, World!")
 | Medium | [plugins/medium/README.md](plugins/medium/README.md) |
 | Google Analytics | [plugins/googleanalytics/README.md](plugins/googleanalytics/README.md) |
 
-<!--
 ## Code of conduct 🤝
--->
+
+Create a code of conduct if required, usually this is when your project has many collaborators. 👇🏻
+
+  > Example: ...
 
 ## License 📋
 
+Introduce a license to your project and briefly describe it. 👇🏻
+
 Free software license used to protect the rights of users and promote freedom in the use, modification and distribution of software.
 
-  > GPL-3.0 license
+  > Example: GPL-3.0 license
 
 ## Author 🧑🏻‍💻
 
-  > Melquiades H.R.
+Author or Authors or Collaborators of the project. 👇🏻
+
+  > Example: Melquiades H.R.
