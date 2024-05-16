@@ -1,10 +1,23 @@
-# Name of your project
-
-**Note:** If your project is not finished, let us know with a message.
+**Note:** If your ***project is not finished***, let us know with a message. 👀 
 
 > [!WARNING]
 > 🚧️ THIS RESOURCE IS **UNDER CONSTRUCTION** !!! 🚧️
 
+# Name and cover image of the Project
+
+  > Give your Readme a title and also include an image. For example: 👇🏻
+
+* Name of my project [ Here ]
+* Cover image [ Here ]
+
+## Badges 🎫
+
+  > They are badges that determine the status of the project, such as: license, versions, dependencies, testing, ...
+
+## Description 📝 
+
+  > Describe the project, but briefly and concisely.
+ 
 ## About 🚀
 
 Briefly describe your project.
