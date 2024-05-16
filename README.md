@@ -12,6 +12,9 @@
 
 ## Badges 🎫
 
+![Netlify](https://img.shields.io/netlify/%2Ftemplate-readme-repos)
+
+
   > They are badges that determine the status of the project, such as: license, versions, dependencies, testing, ...
 
 ## Description 📝 
