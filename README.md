@@ -16,26 +16,23 @@
 
   > They are badges that determine the status of the project, such as: license, versions, dependencies, testing, ...
 
-## Description 📝 
-
-  > Describe the project, but briefly and concisely.
- 
-## About 🚀
-
-Briefly describe your project.
-
 ## Table of Contents 📑
 
+* [Description](#description)
 * [Demo](#demo)
 * [Feactures](#feactures)
 * [User Guide](#user-guide)
 * [Install and Run](#install-run)
+* [Testing](#testing)
 * [Built with](#built-with)
 * [Useful resources](#useful-resources)
 * [Code of conduct](#code-of-conduct)
 * [License](#license)
 * [Author](#author)
 
+## Description 🖋️
+
+  > Describe the project, but briefly and concisely.
 
 ## Demo 💻
 
@@ -93,6 +90,17 @@ Download resources:
 ||               |         |     |
 ||               |         |     |
 
+## Testing 🔬
+
+We can put some tests that we have carried out in our project to verify that everything works correctly.
+
+  > Example: On the official <a href="https://nodejs.org/api/test.html" title="Node.js" target="_blank">Node</a> page.
+
+The node:test module facilitates the creation of JavaScript tests. To access it:
+
+```bash
+const test = require('node:test');
+```
 
 ## Built with 🏗️
 
