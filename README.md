@@ -212,8 +212,6 @@ Create a code of conduct if required, usually this is when your project has many
 
 <br/>
 
-<br/>
-
 <h2 id="license">License 📋</h2>
 
 Introduce a license to your project and briefly describe it. 👇🏻
