@@ -21,12 +21,6 @@ They are badges that determine the status of the project, such as: license, vers
 
 ## Table of Contents 📑
 
-<ul>
-  <li><a href="#description">Description</a></li>
-  <li><a href="#demo"></a>Demo</li>
-  <li><a href="#feactures">Feactures</a></li>
-</ul>
-
 * [Description](#description)
 * [Demo](#demo)
 * [Feactures](#feactures)
@@ -39,12 +33,13 @@ They are badges that determine the status of the project, such as: license, vers
 * [License](#license)
 * [Author](#author)
 
+<br/>
+
 <h2 id="description">Description 🖋️</h2>
 
   > Describe the project, but briefly and concisely.
 
-
-## Demo 💻
+<h2 id="demo">Demo 💻</h2>
 
 View project (URL)
 
@@ -58,7 +53,8 @@ Project videos:
 
   &nbsp;&nbsp; URL Videos ( Here )
 
-## Feactures 💡
+<h2 id="feactures">Feactures 💡</h2>
+
 
 Dillinger is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
@@ -72,7 +68,7 @@ Instructions on how to use them in your own application are linked below.
 | Medium | [plugins/medium/README.md](plugins/medium/README.md) |
 | Google Analytics | [plugins/googleanalytics/README.md](plugins/googleanalytics/README.md) |
 
-## Install and Run ⚙️
+<h2 id="install-run">Install and Run ⚙️</h2>
 
 Project installation:
 
@@ -100,7 +96,7 @@ Download resources:
 ||               |         |     |
 ||               |         |     |
 
-## Testing 🔬
+<h2 id="testing">Testing 🔬</h2>
 
 We can put some tests that we have carried out in our project to verify that everything works correctly.
 
@@ -112,7 +108,7 @@ The node:test module facilitates the creation of JavaScript tests. To access it:
 const test = require('node:test');
 ```
 
-## Built with 🏗️
+<h2 id="built-with">Built with 🏗️</h2>
 
 Technologies to build this project:
 
@@ -182,7 +178,7 @@ print("Hello, World!")
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-## Useful resources 🔧
+<h2 id="useful-resources">Useful resources 🔧</h2>
 
 1 URL - When I was building the project I found an interesting URL.
 <br />
@@ -197,13 +193,15 @@ print("Hello, World!")
 | Medium | [plugins/medium/README.md](plugins/medium/README.md) |
 | Google Analytics | [plugins/googleanalytics/README.md](plugins/googleanalytics/README.md) |
 
-## Code of conduct 🤝
+<h2 id="code-of-conduct">Code of conduct 🤝</h2>
 
 Create a code of conduct if required, usually this is when your project has many collaborators. 👇🏻
 
   > Example: ...
 
-## License 📋
+<br/>
+
+<h2 id="license">License 📋</h2>
 
 Introduce a license to your project and briefly describe it. 👇🏻
 
@@ -211,7 +209,7 @@ Free software license used to protect the rights of users and promote freedom in
 
   > Example: GPL-3.0 license
 
-## Author 🧑🏻‍💻
+<h2 id="author">Author 🧑🏻‍💻</h2>
 
 Author or Authors or Collaborators of the project. 👇🏻
 
