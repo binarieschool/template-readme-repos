@@ -22,12 +22,10 @@ They are badges that determine the status of the project, such as: license, vers
 ## Table of Contents 📑
 
 <ul>
-  <li><a href="#description">Description</a></li>
+  <li><a href="description">Description</a></li>
   <li><a href="#demo"></a>Demo</li>
   <li><a href="#feactures">Feactures</a></li>
 </ul>
-
-[Description](#description)
 
 <!--* [Description](#description)-->
 * [Demo](#demo)
