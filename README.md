@@ -22,7 +22,7 @@ They are badges that determine the status of the project, such as: license, vers
 ## Table of Contents 📑
 
 <ul>
-  <li><a href="description">Description</a></li>
+  <li><a href="#description">Description</a></li>
   <li><a href="#demo"></a>Demo</li>
   <li><a href="#feactures">Feactures</a></li>
 </ul>
@@ -39,7 +39,7 @@ They are badges that determine the status of the project, such as: license, vers
 * [License](#license)
 * [Author](#author)
 
-<p id="#description">Description</p>
+<p id="description">Description</p>
 
 ## Description 🖋️
 
