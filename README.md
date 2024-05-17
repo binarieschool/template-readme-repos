@@ -39,9 +39,9 @@ They are badges that determine the status of the project, such as: license, vers
 * [License](#license)
 * [Author](#author)
 
-<p id="description">Description</p>
+<!--<p id="description">Description</p>-->
 
-## Description 🖋️
+[## Description 🖋️](#description)
 
   > Describe the project, but briefly and concisely.
 
