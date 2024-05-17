@@ -24,7 +24,6 @@ They are badges that determine the status of the project, such as: license, vers
 * [Description](#description)
 * [Demo](#demo)
 * [Feactures](#feactures)
-* [User Guide](#user-guide)
 * [Install and Run](#install-run)
 * [Testing](#testing)
 * [Built with](#built-with)
@@ -57,17 +56,19 @@ Project videos:
 
 <h2 id="feactures">Feactures 💡</h2>
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
+Briefly explain the features of your project.
 
 | Name | How does it work? |
 | ---- | ----------------- |
-| Dropbox | [plugins/dropbox/README.md](plugins/dropbox/README.md) |
-| GitHub  | [plugins/github/README.md](plugins/github/README.md) |
-| Google Drive | [plugins/googledrive/README.md](plugins/googledrive/README.md) |
-| OneDrive | [plugins/onedrive/README.md](plugins/onedrive/README.md) |
-| Medium | [plugins/medium/README.md](plugins/medium/README.md) |
-| Google Analytics | [plugins/googleanalytics/README.md](plugins/googleanalytics/README.md) |
+| Feacture 1 | This feature makes... |
+| Feacture 2 | This feature makes... |
+| Feacture 3 | This feature makes... |
+| Feacture 4 | This feature makes... |
+
+<br/>
+
+> [!NOTE]
+> You can use: Images, videos, gifs, pieces of code, ...
 
 <br/>
 
