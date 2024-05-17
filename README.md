@@ -53,8 +53,9 @@ Project videos:
 
   &nbsp;&nbsp; URL Videos ( Here )
 
-<h2 id="feactures">Feactures 💡</h2>
+<br/>
 
+<h2 id="feactures">Feactures 💡</h2>
 
 Dillinger is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
@@ -67,6 +68,8 @@ Instructions on how to use them in your own application are linked below.
 | OneDrive | [plugins/onedrive/README.md](plugins/onedrive/README.md) |
 | Medium | [plugins/medium/README.md](plugins/medium/README.md) |
 | Google Analytics | [plugins/googleanalytics/README.md](plugins/googleanalytics/README.md) |
+
+<br/>
 
 <h2 id="install-run">Install and Run ⚙️</h2>
 
@@ -96,6 +99,8 @@ Download resources:
 ||               |         |     |
 ||               |         |     |
 
+<br/>
+
 <h2 id="testing">Testing 🔬</h2>
 
 We can put some tests that we have carried out in our project to verify that everything works correctly.
@@ -107,6 +112,8 @@ The node:test module facilitates the creation of JavaScript tests. To access it:
 ```bash
 const test = require('node:test');
 ```
+
+<br/>
 
 <h2 id="built-with">Built with 🏗️</h2>
 
@@ -178,6 +185,8 @@ print("Hello, World!")
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
+<br/>
+
 <h2 id="useful-resources">Useful resources 🔧</h2>
 
 1 URL - When I was building the project I found an interesting URL.
@@ -193,11 +202,15 @@ print("Hello, World!")
 | Medium | [plugins/medium/README.md](plugins/medium/README.md) |
 | Google Analytics | [plugins/googleanalytics/README.md](plugins/googleanalytics/README.md) |
 
+<br/>
+
 <h2 id="code-of-conduct">Code of conduct 🤝</h2>
 
 Create a code of conduct if required, usually this is when your project has many collaborators. 👇🏻
 
   > Example: ...
+
+<br/>
 
 <br/>
 
@@ -208,6 +221,8 @@ Introduce a license to your project and briefly describe it. 👇🏻
 Free software license used to protect the rights of users and promote freedom in the use, modification and distribution of software.
 
   > Example: GPL-3.0 license
+
+<br/>
 
 <h2 id="author">Author 🧑🏻‍💻</h2>
 
