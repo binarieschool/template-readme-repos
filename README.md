@@ -27,7 +27,7 @@ They are badges that determine the status of the project, such as: license, vers
   <li><a href="#feactures">Feactures</a></li>
 </ul>
 
-<!--* [Description](#description)-->
+* [Description](#description)
 * [Demo](#demo)
 * [Feactures](#feactures)
 * [User Guide](#user-guide)
@@ -39,9 +39,7 @@ They are badges that determine the status of the project, such as: license, vers
 * [License](#license)
 * [Author](#author)
 
-<!--<p id="description">Description</p>-->
-
-[## Description 🖋️](#description)
+<h2 id="description">Description 🖋️</h2>
 
   > Describe the project, but briefly and concisely.
 
