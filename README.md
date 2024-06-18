@@ -97,6 +97,8 @@ Download resources:
 | Host | Type | Content | URL |
 | ---- | ---- | ------- | --- |
 | ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white) | Images | Different images of musical groups | https://name-host |
+| ![Dropbox](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff) | Images | Images of technologies | https://name-host |
+||               |         |     |
 ||               |         |     |
 ||               |         |     |
 
